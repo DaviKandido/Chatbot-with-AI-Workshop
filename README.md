@@ -6,4 +6,4 @@ Materiais complementares usados durante o workshop de desenvolvimento de chatbot
 
 ## Direitos de uso
 
-Este material está sob a licensa MIT, permitindo que professores e alunos o utilizem para aprender, estudar e compartilhar conhecimento. No entanto, é importante ressaltar que todos os que utilizarem este material — independentemente da finalidade — devem manter a referência ao material original. O conteúdo não pode ser utilizado para criar livros, apostilas ou outros materiais destinados à venda, com o objetivo de obter lucro financeiro, seja por autores, editoras ou instituições de ensino.
+Este material está sob a [licensa MIT](https://github.com/ArturColen/Chatbot-with-AI-Workshop/blob/main/LICENSE.md), permitindo que professores e alunos o utilizem para aprender, estudar e compartilhar conhecimento. No entanto, é importante ressaltar que todos os que utilizarem este material — independentemente da finalidade — devem manter a referência ao material original. O conteúdo não pode ser utilizado para criar livros, apostilas ou outros materiais destinados à venda, com o objetivo de obter lucro financeiro, seja por autores, editoras ou instituições de ensino.
